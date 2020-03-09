@@ -216,6 +216,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
 	font-size: 36px;
 	margin-bottom:20px;
+	font-family:'samarkan';
+	
 }
 h2 {
 	font-size: 30px;
@@ -307,7 +309,8 @@ h2.pagetitle {
 	font-size: 1.75em;
 	margin-left: 0;
 	font-weight: 400;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
+	font-family: 'Samarkan Normal';
 }
 .navbar .brand a:hover {
 	text-decoration: none;

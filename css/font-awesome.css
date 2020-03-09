@@ -32,6 +32,26 @@
   font-weight: normal;
   font-style: normal;
 }
+
+
+
+
+@font-face {
+  font-family: 'Samarkan Normal';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Samarkan Normal'), url('../font/SAMARN__.woff') format('woff');
+  }
+  
+  
+  @font-face {
+  font-family: 'Samarkan Oblique';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Samarkan Oblique'), url('../font/SAMARO__.woff') format('woff');
+  }
+
+
 /* FONT AWESOME CORE
  * -------------------------- */
 [class^="icon-"],
